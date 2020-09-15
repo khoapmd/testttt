@@ -1,7 +1,5 @@
 namespace ledMagic {
-    /**
-     * Address LEDs linearly row first
-     */
+
     //% blockId=screenmagicplotat
     //% block="plot at $index"
     //% index.min = 0 index.max = 25
